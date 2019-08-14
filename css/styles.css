@@ -1,0 +1,39 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Varela', sans-serif;
+  font-size: 15px;
+}
+.main {
+  width: 40%;
+  padding: 20px;
+}
+.images {
+  width: 60%;
+  height: 100%;
+}
+.sidebar {
+  border-right: 0.5px solid #84fff1;
+  margin: 20px;
+  width: 10%;
+  float: left;
+  background-image: linear-gradient(to right, #ffffff, #eafffd);
+  background-color: #eafffd;
+}
+.card-header{
+  background-color: pink
+}
+.card{
+  background-color: #fcfefe;
+}
+.mycard{
+  background-color: #c3fff3;
+  height: 24px;
+  border-radius: 0;
+  font-weight: 400;
+}
+.secondcard{
+  background-color: #cdd7db;
+  height: 24px;
+  border-radius: 0;
+  font-weight: 400;
+}
